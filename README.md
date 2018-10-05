@@ -1,3 +1,5 @@
 # Spring-Cloud
-Spring Cloud 架构：
-![image](https://github.com/ghuan/JournalingApp/blob/master/JournalingApp/11.png)
+
+# Spring Cloud架构图：
+
+![image](https://github.com/ghuan/Spring-Cloud/blob/master/spring-cloud-architecture.png)
